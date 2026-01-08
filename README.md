@@ -1,2 +1,3 @@
 # GitKodland
-GitKodland Benim Becerilerim
+## Benim becerilerim:
+<img src="LINK" width="10%">
