@@ -1,0 +1,2 @@
+# GitKodland
+GitKodland Benim Becerilerim
