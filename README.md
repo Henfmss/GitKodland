@@ -1,3 +1,4 @@
 # GitKodland
 ## Benim becerilerim:
-<img src="LINK" width="10%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="10%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" width="10%">
